@@ -1,1 +1,3 @@
-/home/taswartz/.vimrc
+:color desert
+:set mouse=a
+:set number
