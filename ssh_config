@@ -1,0 +1,4 @@
+Host socialbet
+	HostName 165.227.180.80
+	User root
+	Compression yes
